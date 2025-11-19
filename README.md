@@ -1,4 +1,4 @@
-# MMDetection3D WandB Hook
+# MMDetection3D W&B Hook
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
